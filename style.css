@@ -1,0 +1,729 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main1 {
+    display: flex;
+}
+.web1 img {
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.web1 {
+    display: flex;
+}
+.web1 select {
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    padding-top: 14px;
+    padding-left: 40px;
+}
+.web1 select option {
+    color: white;
+    background-color: black;
+    border-radius: 0%;
+}
+.web1 a {
+    padding-top: 40px;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.web1 i {
+    font-size: 30px;
+    padding-top: 35px;
+    padding-left: 30px;
+}
+.web2 {
+    display: flex;
+    padding-left: 400px;
+}
+.web2 a {
+    padding-top: 40px;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.web2 button {
+    height: 50px;
+    width: 210px;
+    background-color: 
+    #c1c2be;
+    font-weight: bold;
+    color: white;
+    border: none;
+    font-size: 15px;
+    border-radius: 23px;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+.main2 {
+    background-color: 
+    #000000;
+    margin-top: 20px;
+    display: flex;
+}
+.web3 button {
+    height: 40px;
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    width: 120px;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.web3 h1 {
+    color: white;
+    padding-top: 30px;
+    padding-left: 40px;
+    font-size: 60px;
+}
+.web3 p {
+    color: white;
+    padding-top: 40px;
+    padding-left: 40px;
+    font-size: 25px;
+    line-height: 30px;
+}
+.web4 img {
+    height: 600px;
+    margin-left: 160px;
+    margin-top: 40px;
+   
+}
+.web3 img {
+    height: 600px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.web4 img {
+    height: 600px;
+    margin-left: 160px;
+    margin-top: 40px;
+}
+.web5 {
+    height: 200px;
+    background-color: 
+    #d6d6d1;
+}
+.web5 h1 {
+    text-align: center;
+    padding-top: 80px;
+    font-size: 40px;
+}
+.web5 .h2 {
+    padding-top: 30px;
+}
+.main4 {
+    display: flex;
+    background-color: #d6d6d1;
+}
+.web6 h1 {
+   padding-left:0px;
+   padding-top: 60px;
+}
+.web6 {
+    text-align: center;
+    border-right: 4px solid black;
+    width: 700px;
+}
+.web6 p {
+    margin-left: 0px;
+    margin-top: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    font-size: 19px;
+}
+.web6 img {
+    height: 300px;
+    margin-left: 0px;
+    margin-top: 60px;
+}
+.web7 h1 {
+    padding-left:100px;
+    padding-top: 60px;
+}
+.web7 {
+    text-align: center;
+}
+.web7 p {
+    margin-left: 100px;
+    margin-top: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    font-size: 19px;
+}
+.web7 img {
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.web8 {
+    height: 200px;
+    background-color: #000000;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.web8 h1 {
+    color: white;
+    font-size: 50px;
+}
+.main5 {
+    display: flex;
+}
+.web9 {
+    width: 700px;
+    height: 500px;
+    background-color: #d6d6d1;
+    text-align: center;
+}
+.web10 {
+    background-color: 
+    #FFF804;
+    height: 500px;
+    width: 700px;
+    text-align: center;
+}
+.web9 button {
+    margin-top: 4cap;
+    height: 30px;
+    width: 50px;
+    border: 2px solid black;
+    font-weight: bold;
+}
+.web9 h1 {
+    padding-top: 30px;
+    font-size: 43px;
+}
+.web9 p {
+    padding-top: 30px;
+    line-height: 30px;
+    font-weight: 600;
+    font-size: 19px;
+}
+.web10 button {
+    margin-top: 4cap;
+    height: 30px;
+    width: 70px;
+    border: 2px solid black;
+    font-weight: bold;
+}
+.web10 h1 {
+    padding-top: 30px;
+    font-size: 43px;
+}
+.web10 p {
+    padding-top: 30px;
+    line-height: 30px;
+    font-weight: 600;
+    font-size: 19px;
+}
+.web11 {
+    width: 700px;
+    height: 4700px;
+    background-color: #d6d6d1;
+    text-align: center;
+}
+.web12 {
+    background-color: 
+    #FFF804;
+    height: 4700px;
+    width: 700px;
+}
+.web11 h3 {
+    padding-top: 0px;
+    padding-left: 130px;
+    font-size: 30px;
+}
+.web11 h5 {
+    margin-left: 420px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.web11 p {
+    padding-left: 100px;
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 20px;
+}
+.web12 p {
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 20px;
+    padding-left: 60px;
+}
+.web12 h3 {
+    padding-top: 0px;
+    padding-left: 60px;
+    font-size: 30px;
+    line-height: 40px;
+}
+.web12 img {
+    height: 400px;
+    padding-left: 80px;
+}
+.web11 .h1 {
+    text-align: center;
+    padding-left: 0;
+    padding-top: 600px;
+    font-size: 25px;
+    line-height: 35px;
+}
+.web11 .p1 {
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 20px;
+    padding-left: 0;
+}
+.web11 .m {
+    margin-left: 0px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.web11 img {
+    height: 300px;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.web12 .h2 {
+    padding-top: 90px;
+    padding-left: 60px;
+    font-size: 30px;
+    line-height: 40px;
+}
+.web12 h5 {
+    padding-left: 60px;
+    font-size: 18px;
+    padding-top: 20px;
+}
+.web11 .h4 {
+    text-align: center;
+    padding-left: 0;
+    padding-top: 180px;
+    font-size: 25px;
+    line-height: 35px;
+}
+.web11 .p3 {
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 20px;
+    padding-left: 0;
+}
+.web12 h2 {
+    padding-top: 50px;
+    padding-left: 60px;
+    font-size: 30px;
+    line-height: 40px;
+}
+.web13 img {
+    height: 350px;
+    padding-left: 60px;
+}
+.web11 .h5 {
+    text-align: center;
+    padding-left: 0;
+    padding-top: 460px;
+    font-size: 25px;
+    line-height: 35px;
+}
+.web12 .h6 {
+    font-size: 25px;
+    line-height: 30px;
+    padding-top: 45px;
+    padding-left: 60px;
+}
+.web14 img {
+    margin-top: 290px;
+    height: 300px;
+    width: 500px;
+    margin-left: 0px;
+}
+.web12 a {
+    padding-left: 60px;
+    margin-top: 45px;
+    color: #000000;
+    font-weight: bold;
+}
+.web12 .span {
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 20px;
+    padding-left: 60px;
+    margin-bottom: 20px;
+}
+.web11 .h8 {
+    text-align: center;
+    padding-top: 1000px;
+    padding-left: 0;
+}
+.web11 .p8 {
+    padding-left: 0;
+}
+.web16 {
+    height: 50px;
+    width: 230px;
+    background-color: #000000;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    margin-left: 220px;
+    margin-top: 40px;
+}
+.web16 a {
+    color: white;
+    padding-left: 0px;
+    margin-top: 0;
+    font-weight: bold;
+    text-decoration: none;
+}
+.main20 {
+    background-color: #000000;
+    color: white;
+    height: 140px;
+    display: flex;
+    align-items: center;
+}
+.web17 {
+    display: flex;
+}
+.web17 h1 {
+    padding-left: 60px;
+    font-size: 40px;
+}
+.web17 i {
+    font-size: 40px;
+    padding-top: 5px;
+    margin-left: 10px;
+}
+.web18 {
+    height: 50px;
+    border: 2px solid white;
+    color: white;
+    width: 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    margin-left: 600px;
+    margin-top: 10px;
+}
+.web18 a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.main6 {
+    display: flex;
+}
+.web19 {
+    background-color: 
+    #81836C;
+    height: 770px;
+    width: 700px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.web20 {
+    background-color: #E280FF;
+    height: 770px;
+    width: 700px;
+    border-bottom: 2px solid black; 
+}
+.web19 img {
+    height: 300px;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.web21 {
+    display: flex;
+    justify-content: center;
+}
+.web21 button {
+    height: 35px;
+    width: 150px;
+    border: 2px solid black;
+    font-weight: 600;
+    margin-top: 40px;
+}
+.web22 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.web23 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 500;
+    color: #000000;
+}
+.web24 button {
+    height: 50px;
+    width: 240px;
+    background-color: #000000;
+    color: white;
+    border-radius: 30px;
+    border: none;
+    font-weight: bold;
+}
+.web24 {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.web20 img {
+    height: 300px;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.web29 button {
+    height: 35px;
+    width: 180px;
+    border: 2px solid black;
+    font-weight: 600;
+    margin-top: 40px;
+}
+.web29 {
+    display: flex;
+    justify-content: center;
+}
+.web25 {
+    height: 420px;
+    background-color: #f2f3e3;
+}
+.web30 {
+    display: flex; 
+    justify-content: center;
+}
+.web30 button {
+    height: 35px;
+    width: 120px;
+    margin-top: 80px;
+    font-weight: 600;
+    border: 2px solid black;
+}
+.web31 {
+    display: flex;
+    justify-content: center;
+}
+.web31 h1 {
+    padding-top: 40px;
+    font-size: 40px;
+}
+.web32 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 30px;
+    line-height: 25px;
+    font-weight: 500;
+}
+.web33 {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.web33 button {
+    height: 50px;
+    width: 220px;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.web33 a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+}
+.main11 {
+    display: flex;
+}
+.web34 {
+    height: 800px;
+    background-color: #FFF804;
+    width: 700px;
+}
+.web35 img {
+    height: 800px;
+    width: 700px;
+}
+.web34 button {
+    height: 40px;
+    width: 180px;
+    border: 2px solid black;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.web34 p {
+    margin-top: 200px;
+    margin-left: 40px;
+    font-size: 24px;
+    line-height: 35px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+.web34 a {
+    margin-left: 40px;
+    color: #000000;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 700;
+}
+.web36 button {
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-top: 200px;
+}
+.web36 .btn2 {
+    margin-left: 40px;
+    background-color: #000000;
+    color: white;
+    font-weight: 800;
+}
+.web36 .btn1 {
+    background-color: transparent;
+    font-weight: 800;
+}
+.main12 {
+    background-color: #000000;
+    height: 700px;
+}
+.web37 {
+    display: flex;
+    justify-content: center;
+}
+.web37 button {
+    height: 35px;
+    width: 100px;
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    margin-top: 40px;
+}
+.web38 {
+    display: flex;
+    justify-content: center;
+}
+.web38 h1 {
+    color: white;
+    font-size: 38px;
+    margin-top: 40px;
+}
+.web39 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.web39 p {
+    color: white;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.web40 {
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    margin-top: 80px;
+}
+.web41 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.web41 .btn3 {
+    background-color: #FFF804;
+    height: 50px;
+    width: 280px;
+    border: none;
+    border-radius: 40px;
+    font-weight: 600;
+    margin-top: 60px;
+}
+.web41 .btn3 a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: 600;
+}
+.main13 {
+    height: 660px;
+    background-color: #000000;
+    display: flex;
+}
+.web42 h3 {
+    color: white;
+    padding-top: 100px;
+}
+.web42 {
+    margin-left: 80px;
+}
+.web42 ul li {
+    color: white;
+    list-style-type: none;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.web43 h3 {
+    color: white;
+    padding-top: 100px;
+}
+.web43 {
+    margin-left: 150px;
+}
+.web43 ul li {
+    color: white;
+    list-style-type: none;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.main14 {
+    height: 300px;
+    background-color: #000000;
+    display: flex;
+}
+.web44 {
+    padding-left: 80px;
+}
+.web45 select {
+    height: 50px;
+    width: 150px;
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+}
+.web45 {
+    margin-left: 600px;
+}
+.web45 option {
+    text-align: center;
+    font-weight: bold;
+}
+.web46 i {
+    font-size: 40px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+   
